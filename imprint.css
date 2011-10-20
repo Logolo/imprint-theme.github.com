@@ -208,40 +208,43 @@ ul.bubbles {
   ul.bubbles .lefty h2 {
     float: right; }
 
-#o-1 {
+#o-bio {
+  top: 38px; }
+  
+#o-blurbs {
   top: 38px; }
 
-#o-2 {
+#o-follow {
   top: 230px; }
 
-#o-3 {
+#o-work {
   top: 345px; }
 
-#o-4 {
+#o-titlebar {
   top: -38px; }
 
-#o-5 {
+#o-reading {
   top: 105px; }
 
-#o-6 {
+#o-images {
   top: 655px; }
 
-#o-7 {
+#o-progress {
   top: 1158px; }
 
-#o-8 {
+#o-sidenotes {
   top: 1443px; }
 
-#o-9 {
+#o-tables {
   top: 1710px; }
 
-#o-10 {
+#o-heads {
   top: 2066px; }
 
-#o-11 {
+#o-readlater {
   top: 2238px; }
 
-#o-12 {
+#o-portfolio {
   top: 2334px; }
 
 #spread {
@@ -256,6 +259,8 @@ ul.bubbles {
     #spread li.reblog {
       background-position: -185px -615px; }
     #spread li.longreads {
+      background-position: 140px -615px; }
+    #spread li.readlater {
       background-position: 140px -615px; }
   #spread strong {
     text-transform: uppercase; }
