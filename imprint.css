@@ -257,11 +257,11 @@ ul.bubbles {
     margin-top: 25px;
     background: url("images/ouijas.png") no-repeat; }
     #spread li.reblog {
-      background-position: -145px -615px; }
+      background-position: 175px -643px; }
     #spread li.longreads {
-      background-position: 100px -615px; }
+      background-position: -146px -643px; }
     #spread li.readlater {
-      background-position: 100px -615px; }
+      background-position: -469px -643px; }
   #spread strong {
     text-transform: uppercase; }
   #spread a {
@@ -291,7 +291,7 @@ ul.bubbles {
   padding-top: 42px;
   line-height: 180px;
   text-align: center;
-  background: url("images/ouijas.png") -1229px -407px;
+  background: url("images/ouijas.png") -1228px -407px;
   color: #c8602b;
   text-transform: uppercase;
   letter-spacing: 1px;
