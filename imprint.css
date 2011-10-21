@@ -250,18 +250,18 @@ ul.bubbles {
 #spread {
   margin-right: -5px;
   text-align: right;
-  width: 160px;
+  width: 200px;
   float: right; }
   #spread li {
     padding-right: 40px;
     margin-top: 25px;
     background: url("images/ouijas.png") no-repeat; }
     #spread li.reblog {
-      background-position: -185px -615px; }
+      background-position: -145px -615px; }
     #spread li.longreads {
-      background-position: 140px -615px; }
+      background-position: 100px -615px; }
     #spread li.readlater {
-      background-position: 140px -615px; }
+      background-position: 100px -615px; }
   #spread strong {
     text-transform: uppercase; }
   #spread a {
